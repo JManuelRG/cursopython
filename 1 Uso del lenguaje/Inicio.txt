@@ -1,2 +1,5 @@
 En esta carpeta encontrarás ejemplos de código de cada uno de los temas.
-Principalmente una introducción al uso general del lenguaje python
+Principalmente una introducción al uso general del lenguaje python.
+
+Para correr los códigos puedes utilizar el siguiente intérprete basado en la nube de Python 3:
+https://repl.it/languages/python3
