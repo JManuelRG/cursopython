@@ -1,0 +1,2 @@
+En esta carpeta encontrarás ejemplos de código de cada uno de los temas.
+Principalmente una introducción al uso general del lenguaje python
