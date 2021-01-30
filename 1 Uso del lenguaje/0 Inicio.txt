@@ -3,3 +3,7 @@ Principalmente una introducción al uso general del lenguaje python.
 
 Para correr los códigos puedes utilizar el siguiente intérprete basado en la nube de Python 3:
 https://repl.it/languages/python3
+
+Alternativamente puedes descargar el paquete Anaconda y abrir el programa Spyder para correr el código:
+descargar anaconda para cualquier Sistema Operativo aquí:
+https://www.anaconda.com/products/individual
