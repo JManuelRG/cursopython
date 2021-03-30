@@ -16,7 +16,7 @@ https://www.anaconda.com/products/individual
 2.	Visual Code Studio más ligero
 https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
-### Diferentes opciones online (Aprender):
+### Diferentes opciones online:
 
 1.	Google Colab: Jupyter Notebook
 https://colab.research.google.com/
