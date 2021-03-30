@@ -33,8 +33,8 @@ https://github.com/JManuelRG/cursopython (este repositorio)
 https://www.youtube.com/watch?v=byr4IBjUc2M&list=PLE5tTVHyP-X8J7d0VAf8-Zfah6OtKQdsY
 
 ## Síguenos en facebook en:
-fb.com/basicosingenieria
+https://www.facebook.com/basicosingenieria
 
 ## Blog:
-basicosingeniería.blogspot.com
+https://basicosingenieria.blogspot.com/
 
