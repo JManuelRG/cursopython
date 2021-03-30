@@ -1,7 +1,11 @@
 # cursopython
 Información básica del uso del lenguaje Python para Aplicaciones de Ciencia e Ingeniería.
+En constante actualización.
+Carpeta 1:
+Uso del lenguaje
 
-Comienza por la carpeta 1.
+Carpeta 2:
+Algunos ejemplos del uso de librerías para Ciencia e Ingeniería
 
 FORMAS DE ACCESO A PYTHON:
 Diferentes opciones Instalables:
@@ -22,10 +26,15 @@ https://replit.com/languages/python3
 
 
 Acceso a información:
-
 Teams: Videos, Formularios, Libros
-
 https://github.com/JManuelRG/cursopython
 
-Canal de youtube:
+Canal de youtube con algunos ejemplos:
 https://www.youtube.com/watch?v=byr4IBjUc2M&list=PLE5tTVHyP-X8J7d0VAf8-Zfah6OtKQdsY
+
+Síguenos en facebook en:
+fb.com/basicosingenieria
+
+Blog:
+basicosingeniería.blogspot.com
+
