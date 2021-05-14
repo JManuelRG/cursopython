@@ -26,7 +26,7 @@ https://replit.com/languages/python3
 
 
 ## Acceso a información:
-Teams: Videos, Formularios, Libros
+Plataforma: Formularios, Libros
 https://github.com/JManuelRG/cursopython (este repositorio)
 
 ## Canal de youtube con algunos ejemplos:
