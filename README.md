@@ -14,6 +14,7 @@ Spyder, Jupyter Notebook
 https://www.anaconda.com/products/individual
 
 2.	Visual Code Studio, más ligero
+
 https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
 ### Diferentes opciones online:
@@ -27,9 +28,11 @@ https://replit.com/languages/python3
 
 ## Acceso a información:
 Plataforma: Formularios, Libros
+
 https://github.com/JManuelRG/cursopython (este repositorio)
 
 ## Canal de youtube con algunos ejemplos:
+
 ### Sesiones Grabadas
 Curso para la UMSNH:
 https://www.youtube.com/playlist?list=PLE5tTVHyP-X8oA1RG5ncR22ol-MANAeBv
@@ -44,5 +47,5 @@ https://www.facebook.com/basicosingenieria
 https://basicosingenieria.blogspot.com/
 
 ## Más cursos en mi sitio:
-link.tree/basicosingenieria
+[link.tree/basicosingenieria](link.tree/basicosingenieria)
 
