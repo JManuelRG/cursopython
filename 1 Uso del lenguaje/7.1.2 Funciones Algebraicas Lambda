@@ -1,0 +1,128 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Funciones Lambda.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyP+TOyTeoXi30tl1L4SKsou",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/JManuelRG/cursopython/blob/main/1%20Uso%20del%20lenguaje/7.1.2%20Funciones%20Algebraicas%20Lambda\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "ee62L2a12fJN"
+      },
+      "source": [
+        "# Para definir funciones algebraicas\n",
+        "\n",
+        "$$f(x,y,z)=9x^2+3y+6z$$"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "pE_2rBSI2uB4",
+        "outputId": "eb256cca-75d3-4df0-bfb8-d7fa97f5c03c"
+      },
+      "source": [
+        "f = lambda x,y,z:9*x**2+3*y+6*z\n",
+        "\n",
+        "# Por posición:\n",
+        "print(f(2,12,35))\n",
+        "\n",
+        "# Por nombre\n",
+        "print(f(z=0,y=1,x=1))"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "282\n",
+            "12\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "4IipiwPg3q0i",
+        "outputId": "6d67c904-401d-4fe7-bb41-5f964d614b78"
+      },
+      "source": [
+        "# Ejemplo\n",
+        "# Generar Tabla de valores de la función\n",
+        "g = lambda x:x**2\n",
+        "h = lambda x:x**3\n",
+        "\n",
+        "# Así sucesivamente, es más fácil realizar un ciclo for para generar los valores del 0 al 10\n",
+        "print(\"Tabla de Valores.\")\n",
+        "print(\"%15s %15s %15s\" %(\"|Valores de X|\", \"|Valores de G(X)|\", \"|Valores de H(X)|\"))\n",
+        "\n",
+        "# calcular valores de g(x) para cada x\n",
+        "for i in range(0,21):\n",
+        "    print(\"%15d %15d %15d\" %(i, g(i), h(i)) )"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "Tabla de Valores.\n",
+            " |Valores de X| |Valores de G(X)| |Valores de H(X)|\n",
+            "              0               0               0\n",
+            "              1               1               1\n",
+            "              2               4               8\n",
+            "              3               9              27\n",
+            "              4              16              64\n",
+            "              5              25             125\n",
+            "              6              36             216\n",
+            "              7              49             343\n",
+            "              8              64             512\n",
+            "              9              81             729\n",
+            "             10             100            1000\n",
+            "             11             121            1331\n",
+            "             12             144            1728\n",
+            "             13             169            2197\n",
+            "             14             196            2744\n",
+            "             15             225            3375\n",
+            "             16             256            4096\n",
+            "             17             289            4913\n",
+            "             18             324            5832\n",
+            "             19             361            6859\n",
+            "             20             400            8000\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    }
+  ]
+}
