@@ -47,5 +47,5 @@ https://www.facebook.com/basicosingenieria
 https://basicosingenieria.blogspot.com/
 
 ## Más cursos en mi sitio:
-[Básicos de Ingeniería: Sitio en Linktree](linktr.ee/basicosingenieria)
+[Básicos de Ingeniería: Sitio en Linktree](https://linktr.ee/basicosingenieria)
 
