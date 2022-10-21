@@ -1,14 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep  7 14:55:04 2020
-
-@author: José Manuel
-""
 Construccion de Diagramas Equilibrio
 Líquido Vapor
 Dr. José Manuel Rivera Garnica
 IPN
 """
+#Explicación del código:
+# https://youtu.be/A2xVUiFpkD0
 #Importar librerías
 import matplotlib.pyplot as plt #Librería de graficación
 from math import log10 #Importar Logaritmo de Librería matemática
